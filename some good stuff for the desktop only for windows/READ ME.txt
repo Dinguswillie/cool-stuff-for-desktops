@@ -1,0 +1,23 @@
+READ ME
+so that folder you opened is cool. it's like you put decorations to your desktop. you will have
+Rainmeter (needs skins so i put the mond one which is really cool to see what time it is)
+Skin mond for rainmeter (its a skin for rainmeter. you just click the folder clock. and select clock.ini. then click load)
+Windhawk (ts INSANE. and i mean INSANE app. you can download mods. like windows 11 taskbar styler)
+sucrose wallpaper engine (don't waste your money on wallpaper engine steam. this app is like wallpaper engine. but free!)
+here's a tutorial for those
+
+step 1: finish the setup of rainmeter (like finish install the rainmeter). after you done that go to mond.rmskin. click install. click that up arrow thingy on the taskbar. and click the water drop (aka rainmeter). click the mond folder. click clock folder. click clock.ini. click the load button
+
+step 2: install windhawk. then go to explore. you have 3 mods to download:
+Windows 11 Notification Center Styler
+Windows 11 Start Menu Styler
+Windows 11 Taskbar Styler
+changes the themes.
+translucentshell for the Windows 11 Notification Center Styler
+translucentstartmenu for the Windows 11 Start Menu Styler
+translucenttaskbar for the Windows 11 Taskbar Styler
+
+final step: if it tells you to download sucrose wallpaper engine on Microsoft store.then do so. bu if it doesn't tell you. then that means i just preinstalled it.
+
+that's how you make your desktop 10x better
+
